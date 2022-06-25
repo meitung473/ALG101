@@ -1,0 +1,19 @@
+{
+  "name": "alg101",
+  "version": "1.0.0",
+  "description": "for lazy guy to practice LIOJ",
+  "main": "1003.js",
+  "scripts": {
+    "create": "node ./script/createfile",
+    "autocreate": "node ./script/autoCopyAll",
+    "test": "node ./script/testfile"
+  },
+  "keywords": [
+    "LIOJ"
+  ],
+  "author": "Rosa Hong",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
